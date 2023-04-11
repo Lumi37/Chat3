@@ -1,0 +1,9 @@
+        <ul>
+            <li>
+                <img src="./imgs/default.jpeg" alt="">
+                <div>
+                    <div>Username</div>
+                    <div>last message</div>
+                </div>
+            </li>
+        </ul>
