@@ -1,3 +1,5 @@
+list 
+
         <ul>
             <li>
                 <img src="./imgs/default.jpeg" alt="">
@@ -7,3 +9,13 @@
                 </div>
             </li>
         </ul>
+other chat user
+                <img src="./imgs/default.jpeg" height="100px" width="100px" alt="">
+chat messages 
+
+                <li class="main-user-message">123123</li>
+                <li class="other-user-message">
+                    <div>123124123asdasdasdasdasdasd</div>
+                    <img src="./imgs/default.jpeg" alt="">
+                </li>
+                
